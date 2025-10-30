@@ -13,7 +13,6 @@ function Contact() {
                         <div className='border-4 border-black p-6 rounded-xl'>02</div>
                         <div className='border-4 border-black p-6 rounded-xl'>03</div>
                         <div className='border-4 border-black p-6 rounded-xl'>04</div>
-                        <div className='border-4 border-black p-6 rounded-xl'>05</div>
                     </div>
                 </div>
                 <div className="md:w-4/12 lg:w-4/12 bg-orange-700 rounded-xl w-10 h-auto p-10">
